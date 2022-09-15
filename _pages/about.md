@@ -11,7 +11,7 @@ I'm a first year PHD student at the University of North Carolina at Chapel Hill,
 
 # Publications
 
-- **Segmenting Subtitles for Correcting ASR Segmentation Errors**  
+- **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**  
   Shiyue Zhang, **David Wan** and Mohit Bansal
   *preprint 2022*  
   [[paper](https://arxiv.org/abs/2209.03549)]
