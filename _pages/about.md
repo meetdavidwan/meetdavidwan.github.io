@@ -17,7 +17,7 @@ I'm a second year PHD student at the University of North Carolina at Chapel Hill
   [[paper](https://arxiv.org/abs/2211.02580)] [[code](https://github.com/meetdavidwan/faithful-multimodal-summ)]
 
 - **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**  
-  Shiyue Zhang*, **David Wan*** and Mohit Bansal  
+  Shiyue Zhang\*, **David Wan\*** and Mohit Bansal  
   *preprint 2022*  
   [[paper](https://arxiv.org/abs/2209.03549)][[code](https://github.com/ZhangShiyue/extractive_is_not_faithful)]
 
