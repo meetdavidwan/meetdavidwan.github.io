@@ -11,13 +11,19 @@ I'm a second year PHD student at the University of North Carolina at Chapel Hill
 
 # Publications
 
+- **Evaluating and Improving Factuality in Multimodal Abstractive Summarization**  
+  David Wan, and Mohit Bansal  
+  *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing*  
+  [[paper](https://arxiv.org/abs/2211.02580)] [[code](https://github.com/meetdavidwan/faithful-multimodal-summ)]
+
 - **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**  
-  Shiyue Zhang*, **David Wan*** and Mohit Bansal
+  Shiyue Zhang*, **David Wan*** and Mohit Bansal  
   *preprint 2022*  
   [[paper](https://arxiv.org/abs/2209.03549)][[code](https://github.com/ZhangShiyue/extractive_is_not_faithful)]
 
 - **Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization**  
   Elsbeth Turcan, **David Wan**, Faisal Ladhak, Petra Galuscakova, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard and Kathleen McKeown  
+  *Proceedings of the 29th International Conference on Computational Linguistics, COLING 2022*  
   [[paper](https://aclanthology.org/2022.coling-1.236/)] [[bib](/files//publications/2022.coling-1.236.bib)]
 
 - **FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization**  
