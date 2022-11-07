@@ -12,7 +12,7 @@ I'm a second year PHD student at the University of North Carolina at Chapel Hill
 # Publications
 
 - **Evaluating and Improving Factuality in Multimodal Abstractive Summarization**  
-  David Wan, and Mohit Bansal  
+  David Wan and Mohit Bansal  
   *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing*  
   [[paper](https://arxiv.org/abs/2211.02580)] [[code](https://github.com/meetdavidwan/faithful-multimodal-summ)]
 
@@ -27,7 +27,7 @@ I'm a second year PHD student at the University of North Carolina at Chapel Hill
   [[paper](https://aclanthology.org/2022.coling-1.236/)] [[bib](/files//publications/2022.coling-1.236.bib)]
 
 - **FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization**  
-  **David Wan**, and Mohit Bansal  
+  **David Wan** and Mohit Bansal  
   *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*  
   [[paper](https://aclanthology.org/2022.naacl-main.74/)] [[bib](/files/publications/2022.naacl-main.74.bib)] [[code](https://github.com/meetdavidwan/factpegasus)]
 
