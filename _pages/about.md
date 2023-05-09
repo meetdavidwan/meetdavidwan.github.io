@@ -7,9 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second year PHD student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
+I'm a second year PHD student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing. 
+
+# Internships
+- 05/2023 - Present: Meta, mentored by [Ramakanth Pasunuru](http://www.rama-kanth.com/)
+- 05/2022 - 10/2022: Amazon Alexa, mentored by [Markus Dreyer](https://markusdreyer.org/) and Mengwen Liu
 
 # Publications
+- **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**  
+  Shiyue Zhang\*, **David Wan\*** and Mohit Bansal  
+  *To appear in ACL 2023*  
+  [[paper](https://arxiv.org/abs/2209.03549)][[code](https://github.com/ZhangShiyue/extractive_is_not_faithful)]
+
+- **HistAlign: Improving Context Dependency in Language Generation by Aligning with History**  
+  **David Wan**, Shiyue Zhang and Mohit Bansal  
+  *preprint 2023*  
+  [[paper](https://arxiv.org/abs/2305.04782)][[code](https://github.com/meetdavidwan/histalign)]
+
 - **Faithfulness-Aware Decoding Strategies for Abstractive Summarization**  
   **David Wan**, Mengwen Liu, Kathleen McKeown, Markus Dreyer, and Mohit Bansal  
   *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*  
@@ -19,11 +33,6 @@ I'm a second year PHD student at the University of North Carolina at Chapel Hill
   **David Wan** and Mohit Bansal  
   *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*  
   [[paper](https://arxiv.org/abs/2211.02580)][[code](https://github.com/meetdavidwan/faithful-multimodal-summ)]
-
-- **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**  
-  Shiyue Zhang\*, **David Wan\*** and Mohit Bansal  
-  *preprint 2022*  
-  [[paper](https://arxiv.org/abs/2209.03549)][[code](https://github.com/ZhangShiyue/extractive_is_not_faithful)]
 
 - **Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization**  
   Elsbeth Turcan, **David Wan**, Faisal Ladhak, Petra Galuscakova, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard and Kathleen McKeown  
