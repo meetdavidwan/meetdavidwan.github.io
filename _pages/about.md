@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second year PHD student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
+I'm a third year PHD student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
 
 # Internships
 - 05/2023 - Present: Meta, mentored by [Ramakanth Pasunuru](http://www.rama-kanth.com/) and [Asli Celikyilmaz](http://asli.us/)
