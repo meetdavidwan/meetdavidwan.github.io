@@ -14,47 +14,47 @@ I'm a third year PHD student at the University of North Carolina at Chapel Hill,
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
 # Publications
-- **HistAlign: Improving Context Dependency in Language Generation by Aligning with History**
-  **David Wan**, Shiyue Zhang and Mohit Bansal
-  *(EMNLP 2023)*
+- **HistAlign: Improving Context Dependency in Language Generation by Aligning with History**  
+  **David Wan**, Shiyue Zhang and Mohit Bansal  
+  *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)*  
   [[paper](https://arxiv.org/abs/2305.04782)][[code](https://github.com/meetdavidwan/histalign)]
 
-- **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**
-  Shiyue Zhang\*, **David Wan\*** and Mohit Bansal
-  *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*
+- **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**  
+  Shiyue Zhang\*, **David Wan\*** and Mohit Bansal  
+  *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*  
   [[paper](https://aclanthology.org/2023.acl-long.120)][[bib](/files//publications/2023.acl-long.120.bib)][[code](https://github.com/ZhangShiyue/extractive_is_not_faithful)]
 
-- **Faithfulness-Aware Decoding Strategies for Abstractive Summarization**
-  **David Wan**, Mengwen Liu, Kathleen McKeown, Markus Dreyer, and Mohit Bansal
-  *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*
+- **Faithfulness-Aware Decoding Strategies for Abstractive Summarization**  
+  **David Wan**, Mengwen Liu, Kathleen McKeown, Markus Dreyer, and Mohit Bansal  
+  *Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023)*  
   [[paper](https://aclanthology.org/2023.eacl-main.210)][[bib](/files//publications/2023.eacl-main.210.bib)][[code](https://github.com/amazon-science/faithful-summarization-generation)]
 
-- **Evaluating and Improving Factuality in Multimodal Abstractive Summarization**
-  **David Wan** and Mohit Bansal
-  *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*
+- **Evaluating and Improving Factuality in Multimodal Abstractive Summarization**  
+  **David Wan** and Mohit Bansal  
+  *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)*  
   [[paper](https://aclanthology.org/2022.emnlp-main.654)][[bib](/files//publications/2022.emnlp-main.654.bib)][[code](https://github.com/meetdavidwan/faithful-multimodal-summ)]
 
-- **Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization**
-  Elsbeth Turcan, **David Wan**, Faisal Ladhak, Petra Galuscakova, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard and Kathleen McKeown
-  *Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)*
+- **Constrained Regeneration for Cross-Lingual Query-Focused Extractive Summarization**  
+  Elsbeth Turcan, **David Wan**, Faisal Ladhak, Petra Galuscakova, Sukanta Sen, Svetlana Tchistiakova, Weijia Xu, Marine Carpuat, Kenneth Heafield, Douglas Oard and Kathleen McKeown  
+  *Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022)*  
   [[paper](https://aclanthology.org/2022.coling-1.236/)][[bib](/files//publications/2022.coling-1.236.bib)]
 
-- **FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization**
-  **David Wan** and Mohit Bansal
-  *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2022)*
+- **FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization**  
+  **David Wan** and Mohit Bansal  
+  *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL 2022)*  
   [[paper](https://aclanthology.org/2022.naacl-main.74/)][[bib](/files/publications/2022.naacl-main.74.bib)] [[code](https://github.com/meetdavidwan/factpegasus)]
 
-- **Segmenting Subtitles for Correcting ASR Segmentation Errors**
-  **David Wan**, Chris Kedzie, Faisal Ladhak, Elsbeth Turcan, Petra Galuscakova, Elena Zotkina, Zhengping Jiang, Peter Bell and Kathleen McKeown
-  *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (EACL 2021)*
+- **Segmenting Subtitles for Correcting ASR Segmentation Errors**  
+  **David Wan**, Chris Kedzie, Faisal Ladhak, Elsbeth Turcan, Petra Galuscakova, Elena Zotkina, Zhengping Jiang, Peter Bell and Kathleen McKeown  
+  *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (EACL 2021)*  
   [[paper](https://www.aclweb.org/anthology/2021.eacl-main.248.pdf)][[bib](/files/publications/2021.eacl-main.248.bib)]
 
-- **Incorporating Terminology Constraints in Automatic Post-Editing**
-  **David Wan**, Chris Kedzie, Faisal Ladhak, Marine Carpuat and Kathleen McKeown
-  *Proceedings of the Fifth Conference on Machine Translation (WMT 2020)*
+- **Incorporating Terminology Constraints in Automatic Post-Editing**  
+  **David Wan**, Chris Kedzie, Faisal Ladhak, Marine Carpuat and Kathleen McKeown  
+  *Proceedings of the Fifth Conference on Machine Translation (WMT 2020)*  
   [[paper](https://www.aclweb.org/anthology/2020.wmt-1.141.pdf)][[bib](/files/publications/2020.wmt-1.141.bib)] [[code](https://github.com/zerocstaker/constrained_ape)]
 
-- **Subtitles to Segmentation: Improving Low-Resource Speech-to-Text Translation Pipelines**
-  **David Wan**, Zhengping Jiang, Chris Kedzie, Elsbeth Turcan, Peter Bell and Kathy McKeown
-  *Proceedings of the workshop on Cross-Language Search and Summarization of Text and Speech (CLSSTS 2020)*
+- **Subtitles to Segmentation: Improving Low-Resource Speech-to-Text Translation Pipelines**  
+  **David Wan**, Zhengping Jiang, Chris Kedzie, Elsbeth Turcan, Peter Bell and Kathy McKeown  
+  *Proceedings of the workshop on Cross-Language Search and Summarization of Text and Speech (CLSSTS 2020)*  
   [[paper](https://www.aclweb.org/anthology/2020.clssts-1.11.pdf)][[bib](/files/publications/2020.clssts-1.11.bib)]
