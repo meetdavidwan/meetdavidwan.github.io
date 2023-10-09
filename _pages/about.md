@@ -14,15 +14,15 @@ I'm a third year PHD student at the University of North Carolina at Chapel Hill,
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
 # Publications
+- **HistAlign: Improving Context Dependency in Language Generation by Aligning with History**
+  **David Wan**, Shiyue Zhang and Mohit Bansal
+  *(EMNLP 2023)*
+  [[paper](https://arxiv.org/abs/2305.04782)][[code](https://github.com/meetdavidwan/histalign)]
+
 - **Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization**
   Shiyue Zhang\*, **David Wan\*** and Mohit Bansal
   *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*
   [[paper](https://aclanthology.org/2023.acl-long.120)][[bib](/files//publications/2023.acl-long.120.bib)][[code](https://github.com/ZhangShiyue/extractive_is_not_faithful)]
-
-- **HistAlign: Improving Context Dependency in Language Generation by Aligning with History**
-  **David Wan**, Shiyue Zhang and Mohit Bansal
-  *preprint 2023*
-  [[paper](https://arxiv.org/abs/2305.04782)][[code](https://github.com/meetdavidwan/histalign)]
 
 - **Faithfulness-Aware Decoding Strategies for Abstractive Summarization**
   **David Wan**, Mengwen Liu, Kathleen McKeown, Markus Dreyer, and Mohit Bansal
