@@ -10,13 +10,14 @@ redirect_from:
 I'm a third year PHD student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
 
 # Internships
+- 05/2024 - Present: Salesforce, mentored by [Jesse Vig](https://jessevig.com/) and [Shafiq Joty](https://raihanjoty.github.io/).
 - 05/2023 - 12/2023: Meta, mentored by [Ramakanth Pasunuru](http://www.rama-kanth.com/) and [Asli Celikyilmaz](http://asli.us/)
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
 # Publications
 - **Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training**  
 **David Wan**, Jaemin Cho, Elias Stengel-Eskin and Mohit Bansal  
-*Preprint*  
+*Proceedings of the European Conference on Computer Vision (ECCV 2024)*  
 [[paper](https://arxiv.org/abs/2403.02325)][[code](https://github.com/meetdavidwan/crg)][[website](https://contrastive-region-guidance.github.io/)]
 
 
