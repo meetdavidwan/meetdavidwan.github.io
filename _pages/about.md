@@ -15,6 +15,11 @@ I'm a third year PHD student at the University of North Carolina at Chapel Hill,
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
 # Publications
+- **ACUEval:Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization (ACL 2024)**  
+**David Wan**, Koustuv Sinha, Srinivasan Iyer, Asli Celikyilmaz, Mohit Bansal, and Ramakanth Pasunuru
+*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)*  
+[[paper](_publications/ACUEval.pdf)][[code](https://github.com/meetdavidwan/acueval)]
+
 - **Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training**  
 **David Wan**, Jaemin Cho, Elias Stengel-Eskin and Mohit Bansal  
 *Proceedings of the European Conference on Computer Vision (ECCV 2024)*  
