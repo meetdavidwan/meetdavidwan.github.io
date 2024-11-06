@@ -7,15 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year PHD student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
+I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
 
 # Internships
-- 05/2024 - Present: Salesforce, mentored by [Jesse Vig](https://jessevig.com/) and [Shafiq Joty](https://raihanjoty.github.io/).
+- 05/2024 - 11/2024: Salesforce, mentored by [Jesse Vig](https://jessevig.com/) and [Shafiq Joty](https://raihanjoty.github.io/).
 - 05/2023 - 12/2023: Meta, mentored by [Ramakanth Pasunuru](http://www.rama-kanth.com/) and [Asli Celikyilmaz](http://asli.us/)
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
 # Publications
-- **ACUEval:Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization (ACL 2024)**  
+- **On Positional Bias of Faithfulness for Long-form Summarization**  
+**David Wan**, Jesse Vig, Mohit Bansal, Shafiq Joty  
+[[paper](https://arxiv.org/abs/2410.23609)][[code](https://github.com/meetdavidwan/longformfact)]
+
+- **ACUEval:Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization**  
 **David Wan**, Koustuv Sinha, Srinivasan Iyer, Asli Celikyilmaz, Mohit Bansal, and Ramakanth Pasunuru  
 *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)*  
 [[paper](files/publications/ACUEval.pdf)][[code](https://github.com/meetdavidwan/acueval)]
