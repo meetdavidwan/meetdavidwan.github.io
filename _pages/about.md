@@ -19,6 +19,10 @@ I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hi
 **David Wan**, Jesse Vig, Mohit Bansal, Shafiq Joty  
 [[paper](https://arxiv.org/abs/2410.23609)][[code](https://github.com/meetdavidwan/longformfact)]
 
+- **Localizing Factual Inconsistencies in Attributable Text Generation**  
+Arie Cattan, Paul Roit, Shiyue Zhang, **David Wan**, Roee Aharoni, Idan Szpektor, Mohit Bansal and Ido Dagan  
+[[paper](https://arxiv.org/abs/2410.07473)][[code](https://github.com/ariecattan/qasem_consistency)]
+
 - **ACUEval:Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization**  
 **David Wan**, Koustuv Sinha, Srinivasan Iyer, Asli Celikyilmaz, Mohit Bansal, and Ramakanth Pasunuru  
 *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 Findings)*  
