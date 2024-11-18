@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing.
+I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing. My work at UNC was supported by a Google PhD Fellowship.
 
 # Internships
 - 05/2024 - 11/2024: Salesforce, mentored by [Jesse Vig](https://jessevig.com/) and [Shafiq Joty](https://raihanjoty.github.io/).
@@ -78,3 +78,9 @@ Arie Cattan, Paul Roit, Shiyue Zhang, **David Wan**, Roee Aharoni, Idan Szpektor
   **David Wan**, Zhengping Jiang, Chris Kedzie, Elsbeth Turcan, Peter Bell and Kathy McKeown  
   *Proceedings of the workshop on Cross-Language Search and Summarization of Text and Speech (CLSSTS 2020)*  
   [[paper](https://www.aclweb.org/anthology/2020.clssts-1.11.pdf)][[bib](/files/publications/2020.clssts-1.11.bib)]
+
+
+# Awards
+- [Google PhD fellowship](https://research.google/programs-and-events/phd-fellowship/) in Natural Language Processing, 2024
+- [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/), declined
+- [Theodore R. Bashkow Award](https://www.cs.columbia.edu/wp-content/uploads/2020/05/CS_Highlights2020.pdf), 2020
