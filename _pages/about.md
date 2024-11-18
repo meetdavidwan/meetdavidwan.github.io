@@ -14,6 +14,11 @@ I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hi
 - 05/2023 - 12/2023: Meta, mentored by [Ramakanth Pasunuru](http://www.rama-kanth.com/) and [Asli Celikyilmaz](http://asli.us/)
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
+# Awards
+- [Google PhD fellowship](https://research.google/programs-and-events/phd-fellowship/) in Natural Language Processing, 2024
+- [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/), declined
+- [Theodore R. Bashkow Award](https://www.cs.columbia.edu/wp-content/uploads/2020/05/CS_Highlights2020.pdf), 2020
+
 # Publications
 - **On Positional Bias of Faithfulness for Long-form Summarization**  
 **David Wan**, Jesse Vig, Mohit Bansal, Shafiq Joty  
@@ -78,9 +83,3 @@ Arie Cattan, Paul Roit, Shiyue Zhang, **David Wan**, Roee Aharoni, Idan Szpektor
   **David Wan**, Zhengping Jiang, Chris Kedzie, Elsbeth Turcan, Peter Bell and Kathy McKeown  
   *Proceedings of the workshop on Cross-Language Search and Summarization of Text and Speech (CLSSTS 2020)*  
   [[paper](https://www.aclweb.org/anthology/2020.clssts-1.11.pdf)][[bib](/files/publications/2020.clssts-1.11.bib)]
-
-
-# Awards
-- [Google PhD fellowship](https://research.google/programs-and-events/phd-fellowship/) in Natural Language Processing, 2024
-- [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/), declined
-- [Theodore R. Bashkow Award](https://www.cs.columbia.edu/wp-content/uploads/2020/05/CS_Highlights2020.pdf), 2020
