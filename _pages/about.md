@@ -17,7 +17,7 @@ I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hi
 # Publications
 - **QAPyramid: Fine-grained Evaluation of Content Selection
 for Text Summarization**  
-Shiyue Zhang*, **David Wan***, Arie Cattan, Ayal Klein, Ido Dagan, and Mohit Bansal  
+Shiyue Zhang\*, **David Wan\***, Arie Cattan, Ayal Klein, Ido Dagan, and Mohit Bansal  
 [[paper](https://arxiv.org/abs/2412.07096)][[code](https://github.com/ZhangShiyue/QAPyramid)]
 
 - **On Positional Bias of Faithfulness for Long-form Summarization**  
