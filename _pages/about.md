@@ -15,13 +15,17 @@ I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hi
 - 05/2022 - 10/2022: Amazon Alexa, mentored by Mengwen Liu and [Markus Dreyer](https://markusdreyer.org/)
 
 # Publications
-- **QAPyramid: Fine-grained Evaluation of Content Selection
-for Text Summarization**  
+- **MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**  
+**David Wan**, Justin Chih-Yao Chen , Elias Stengel-Eskin, and Mohit Bansal  
+Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
+
+- **QAPyramid: Fine-grained Evaluation of Content Selection for Text Summarization**  
 Shiyue Zhang\*, **David Wan\***, Arie Cattan, Ayal Klein, Ido Dagan, and Mohit Bansal  
 [[paper](https://arxiv.org/abs/2412.07096)][[code](https://github.com/ZhangShiyue/QAPyramid)]
 
 - **On Positional Bias of Faithfulness for Long-form Summarization**  
 **David Wan**, Jesse Vig, Mohit Bansal, and Shafiq Joty  
+Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)  
 [[paper](https://arxiv.org/abs/2410.23609)][[code](https://github.com/meetdavidwan/longformfact)]
 
 - **Localizing Factual Inconsistencies in Attributable Text Generation**  
