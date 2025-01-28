@@ -17,7 +17,8 @@ I'm a fourth year Ph.D. student at the University of North Carolina at Chapel Hi
 # Publications
 - **MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**  
 **David Wan**, Justin Chih-Yao Chen , Elias Stengel-Eskin, and Mohit Bansal  
-Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
+Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)  
+[[paper]()][[code]()]
 
 - **QAPyramid: Fine-grained Evaluation of Content Selection for Text Summarization**  
 Shiyue Zhang\*, **David Wan\***, Arie Cattan, Ayal Klein, Ido Dagan, and Mohit Bansal  
