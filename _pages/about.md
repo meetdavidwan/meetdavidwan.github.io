@@ -16,11 +16,11 @@ Previously, I graduated with my bachelor’s and master’s degrees from Columbi
 
 My research focuses on **Faithful and Multimodal AI**, aiming to reduce hallucinations and improve reasoning in generation tasks. My recent work covers three main pillars:
 
-**Faithfulness & Hallucination Mitigation:** Developing metrics and methods to ensure model outputs are factually consistent (e.g., [FactPEGASUS](https://aclanthology.org/2022.naacl-main.74/), [Faithfulness-Aware Decoding](https://aclanthology.org/2023.eacl-main.210), [PrefixNLI](https://arxiv.org/abs/2511.01359)).
+- **Faithfulness & Hallucination Mitigation:** Developing metrics and methods to ensure model outputs are factually consistent (e.g., [FactPEGASUS](https://aclanthology.org/2022.naacl-main.74/), [Faithfulness-Aware Decoding](https://aclanthology.org/2023.eacl-main.210), [PrefixNLI](https://arxiv.org/abs/2511.01359)).
 
-**Fine-grained Attribution & RAG:** Creating frameworks that allow models to cite their sources and reason transparently (e.g., [GenerationPrograms](https://arxiv.org/abs/2506.14580), [LAQuer](https://arxiv.org/abs/2410.07473)).
+- **Fine-grained Attribution & RAG:** Creating frameworks that allow models to cite their sources and reason transparently (e.g., [GenerationPrograms](https://arxiv.org/abs/2506.14580), [LAQuer](https://arxiv.org/abs/2410.07473)).
 
-**Multimodal Reasoning & Retrieval:** Grounding vision-language models to reduce hallucinations in cross-modal tasks (e.g., [CLaMR](https://arxiv.org/abs/2506.06144), [Contrastive Region Guidance](https://arxiv.org/abs/2403.02325)).
+- **Multimodal Reasoning & Retrieval:** Grounding vision-language models to reduce hallucinations in cross-modal tasks (e.g., [CLaMR](https://arxiv.org/abs/2506.06144), [Contrastive Region Guidance](https://arxiv.org/abs/2403.02325)).
 
 ## Publications & Preprints
 
