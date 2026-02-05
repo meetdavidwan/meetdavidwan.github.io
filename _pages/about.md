@@ -7,10 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-🚨 **I am on the job market, looking for industry Research Scientist positions in Summer/Fall 2026. If you see a good fit and are interested in hiring please reach out via email.**
+🚨 **I am on the job market! I am looking for industry Research Scientist positions starting Summer/Fall 2026. If you see a good fit, please reach out via email.**
 
-I'm a fifth year Ph.D. student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). Before this, I graduated with a bachelor's and masters' degree from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). My research interest is in natural language processing. My work at UNC is supported by a [Google PhD fellowship](https://research.google/programs-and-events/phd-fellowship/).
+I'm a fifth year Ph.D. student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work is supported by a Google PhD Fellowship.
 
+Previously, I graduated with my bachelor’s and master’s degrees from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). 
+
+
+My research focuses on **Faithful and Multimodal AI**, aiming to reduce hallucinations and improve reasoning in generation tasks. My recent work covers three main pillars:
+
+**Faithfulness & Hallucination Mitigation:** Developing metrics and methods to ensure model outputs are factually consistent (e.g., [FactPEGASUS](https://aclanthology.org/2022.naacl-main.74/), [Faithfulness-Aware Decoding](https://aclanthology.org/2023.eacl-main.210), [PrefixNLI](https://arxiv.org/abs/2511.01359)).
+
+**Fine-grained Attribution & RAG:** Creating frameworks that allow models to cite their sources and reason transparently (e.g., [GenerationPrograms](https://arxiv.org/abs/2506.14580), [LAQuer](https://arxiv.org/abs/2410.07473)).
+
+**Multimodal Reasoning & Retrieval:** Grounding vision-language models to reduce hallucinations in cross-modal tasks (e.g., [CLaMR](https://arxiv.org/abs/2506.06144), [Contrastive Region Guidance](https://arxiv.org/abs/2403.02325)).
 
 ## Publications & Preprints
 
