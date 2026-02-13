@@ -26,6 +26,11 @@ My research focuses on **Faithful and Multimodal AI**, aiming to reduce hallucin
 
 For an up-to-date list of my publications, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=oHznAAYAAAAJ&hl=en).
 
+**Multimodal Fact-Level Attribution for Verifiable Reasoning**
+<br />**David Wan**, Han Wang, Ziyang Wang, Elias Stengel-Eskin, Hyunji Lee, and Mohit Bansal.
+<br />*ArXiv Preprint*
+<br />[[Paper](https://arxiv.org/abs/2602.11509)] [[Code](https://github.com/meetdavidwan/murgat)]
+
 **PrefixNLI: Detecting Factual Inconsistencies as Soon as They Arise**
 <br />Sapir Harary, Eran Hirsch, Aviv Slobodkin, **David Wan**, Mohit Bansal, and Ido Dagan.
 <br />*ArXiv Preprint*
