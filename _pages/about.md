@@ -26,14 +26,19 @@ My research focuses on **Faithful and Multimodal AI**, aiming to reduce hallucin
 
 For an up-to-date list of my publications, please visit my [Google Scholar Page](https://scholar.google.com/citations?user=oHznAAYAAAAJ&hl=en).
 
+**MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments**
+<br />Han Wang, **David Wan**, Hyunji Lee, Thinh Pham, Mikaela Cankosyan, Weiyuan Chen, Elias Stengel-Eskin, Tu Vu, Mohit Bansal
+<br />*arXiv Preprint*
+<br />[[Paper](https://arxiv.org/abs/2604.13418)] [[Code](https://github.com/HanNight/MERRIN)]
+
 **Multimodal Fact-Level Attribution for Verifiable Reasoning**
 <br />**David Wan**, Han Wang, Ziyang Wang, Elias Stengel-Eskin, Hyunji Lee, and Mohit Bansal.
-<br />*ArXiv Preprint*
+<br />*ICML 2026*
 <br />[[Paper](https://arxiv.org/abs/2602.11509)] [[Code](https://github.com/meetdavidwan/murgat)]
 
 **PrefixNLI: Detecting Factual Inconsistencies as Soon as They Arise**
 <br />Sapir Harary, Eran Hirsch, Aviv Slobodkin, **David Wan**, Mohit Bansal, and Ido Dagan.
-<br />*ArXiv Preprint*
+<br />*ACL 2026*
 <br />[[Paper](https://arxiv.org/abs/2511.01359)] [[Code](https://github.com/sapirharary/PrefixNLI)]
 
 **DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal
