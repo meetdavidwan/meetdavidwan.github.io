@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-🚨 **I am on the job market! I am looking for industry Research Scientist positions starting Summer/Fall 2026. If you see a good fit, please reach out via email.**
-
 I'm a fifth year Ph.D. student at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work is supported by a Google PhD Fellowship.
 
 Previously, I graduated with my bachelor’s and master’s degrees from Columbia University, advised by [Kathleen McKeown](http://www.cs.columbia.edu/~kathy/). 
