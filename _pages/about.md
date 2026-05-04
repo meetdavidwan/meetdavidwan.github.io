@@ -31,12 +31,12 @@ For an up-to-date list of my publications, please visit my [Google Scholar Page]
 
 **Multimodal Fact-Level Attribution for Verifiable Reasoning**
 <br />**David Wan**, Han Wang, Ziyang Wang, Elias Stengel-Eskin, Hyunji Lee, and Mohit Bansal.
-<br />*ICML 2026*
+<br />*Forty-Third International Conference on Machine Learning (ICML 2026)*
 <br />[[Paper](https://arxiv.org/abs/2602.11509)] [[Code](https://github.com/meetdavidwan/murgat)]
 
 **PrefixNLI: Detecting Factual Inconsistencies as Soon as They Arise**
 <br />Sapir Harary, Eran Hirsch, Aviv Slobodkin, **David Wan**, Mohit Bansal, and Ido Dagan.
-<br />*ACL 2026*
+<br />*The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)*
 <br />[[Paper](https://arxiv.org/abs/2511.01359)] [[Code](https://github.com/sapirharary/PrefixNLI)]
 
 **DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal
@@ -75,7 +75,7 @@ of the Association for Computational Linguistics (EACL 2026)*
 
 **Localizing Factual Inconsistencies in Attributable Text Generation**
 <br />Arie Cattan, Paul Roit, Shiyue Zhang, **David Wan**, Roee Aharoni, Idan Szpektor, Mohit Bansal, and Ido Dagan
-<br />*arXiv Preprint*
+<br />*Transactions of the Association for Computational Linguistics (TACL 2025)*
 <br />[[Paper](https://arxiv.org/abs/2410.07473)] [[Code](https://github.com/ariecattan/qasem_consistency)]
 
 **ACUEval: Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization**
